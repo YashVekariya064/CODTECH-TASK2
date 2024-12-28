@@ -16,7 +16,7 @@ HTML forms the structure and content of the website. It defines the layout of th
 
 Key HTML Elements in eCommerce:
 
-Product Listings: HTML elements like <div>, <section>, and <article> are used to group and display product details like names, images, prices, and descriptions.
+Product Listings: HTML elements like div, section, and article are used to group and display product details like names, images, prices, and descriptions.
 Navigation Bar: A <nav> element for the main site navigation (home, categories, login, cart, etc.).
 Product Details Page: A product’s page may include <h1> for titles, <p> for descriptions, and <img> for product images.
 Forms: <form>, <input>, and <button> elements are used for customer interactions, such as search, login, and checkout.
