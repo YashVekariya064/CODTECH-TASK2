@@ -1,7 +1,11 @@
 Name: VEKARIYA YASH
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DJL
+
 Domain: Frontend Web Development
+
 Duration: December 12th,2024 to January 12th,2025
 
 # Overview of the project
@@ -41,6 +45,7 @@ Hover Effects: CSS hover states enhance interactivity, like changing product but
 Animations: Subtle animations (e.g., product pop-ups, sliding cart icons) can make the user experience more dynamic.
 
 3. JavaScript
+
 JavaScript adds interactivity to the website, allowing users to interact with the page without refreshing it. It’s responsible for the dynamic elements of the site, such as product filtering, form validation, and cart management.
 
 Key JavaScript Features in eCommerce:
