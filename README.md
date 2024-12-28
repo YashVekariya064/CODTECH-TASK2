@@ -10,7 +10,8 @@ Project: E-Commerce Website
 
 An eCommerce frontend website refers to the part of an online store that users interact with. It's built using HTML, CSS, and JavaScript, which together create a functional, visually appealing, and interactive shopping experience. Below is an overview of how these technologies come together to build the frontend of an eCommerce website:
 
-1. HTML (HyperText Markup Language)
+1.HTML (HyperText Markup Language)
+
 HTML forms the structure and content of the website. It defines the layout of the page by organizing elements such as headings, text, images, links, forms, buttons, and other UI components.
 
 Key HTML Elements in eCommerce:
