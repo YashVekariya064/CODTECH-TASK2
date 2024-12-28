@@ -26,7 +26,7 @@ CSS is used to style the website, ensuring it's visually appealing and user-frie
 
 Key CSS Features in eCommerce:
 
-Responsive Design: Using media queries (@media), you can create designs that work well on mobile devices, tablets, and desktops.
+Responsive Design: Using media queries (media), you can create designs that work well on mobile devices, tablets, and desktops.
 Flexbox/Grid Layout: CSS Flexbox and Grid help to create responsive product grids that adjust automatically to screen sizes.
 Hover Effects: CSS hover states enhance interactivity, like changing product button colors when hovered.
 Animations: Subtle animations (e.g., product pop-ups, sliding cart icons) can make the user experience more dynamic.
